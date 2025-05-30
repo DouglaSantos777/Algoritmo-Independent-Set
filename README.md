@@ -38,6 +38,7 @@ Se estiver usando um ambiente virtual, ative-o antes de instalar.
 
 Digite o número de vértices:
 
+
 7
 Digite o número de arestas:
 
