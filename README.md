@@ -40,6 +40,7 @@ Digite o número de vértices:
 
 
 7
+
 Digite o número de arestas:
 
 10
