@@ -40,6 +40,7 @@ Digite o número de vértices:
 Digite o número de arestas:
 10
 Digite as 10 arestas no formato u v:
+
 0 3
 2 3
 3 1
