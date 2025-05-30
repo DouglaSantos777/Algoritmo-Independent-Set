@@ -20,6 +20,7 @@ Este projeto implementa o algoritmo DMISA para encontrar um Conjunto Independent
 Abra o Prompt de Comando (ou terminal do VS code) e execute:
 
 python -m pip install --upgrade pip
+
 python -m pip install networkx
 
 Se houver problemas de permissão, execute o Prompt de Comando como Administrador (botão direito > "Executar como administrador") e tente novamente.
@@ -27,6 +28,7 @@ Se houver problemas de permissão, execute o Prompt de Comando como Administrado
 ### No Windows
 
 python3 -m pip install --upgrade pip
+
 python3 -m pip install networkx
 
 Se estiver usando um ambiente virtual, ative-o antes de instalar.
